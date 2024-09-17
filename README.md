@@ -1,1 +1,1 @@
-# Soyusacq
+# Satdim verdim payladın satdın özün bildin
