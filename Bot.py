@@ -1,9 +1,9 @@
 from pyrogram import Client, filters
 
 # API məlumatlarınızı burada daxil edin
-api_id = '2127284'
-api_hash = 'dfd91d5d791a9d5ffc4b085d44ed8495'
-bot_token = '7126459424:AAF47fz6fWflyfAAtW1FecxTsk60hod717E'
+api_id = '21'
+api_hash = 'df5d791a9d5ffc4b0'
+bot_token = '712645AAF47fz6fWflyfAA'
 
 app = Client("anti_swear_bot", api_id=api_id, api_hash=api_hash, bot_token=bot_token)
 
